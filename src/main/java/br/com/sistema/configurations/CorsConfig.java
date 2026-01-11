@@ -19,7 +19,7 @@ public class CorsConfig {
         // Origens permitidas
         config.setAllowedOrigins(Arrays.asList(
             "http://localhost:4200",
-            "https://sysnutritional.cesaravb.com.br"
+            "https://syspersonal.cesaravb.com.br"
         ));
         
         // Métodos HTTP permitidos

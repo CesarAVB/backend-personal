@@ -35,7 +35,7 @@ public class OpenApiConfig {
                                 .url("http://localhost:8080")
                                 .description("Servidor de Desenvolvimento"),
                         new Server()
-                                .url("https://api-sysnutritional.cesaravb.com.br/")
+                                .url("https://api-syspersonal.cesaravb.com.br/")
                                 .description("Servidor de Produção")
                 ));
     }
